@@ -1,0 +1,3 @@
+C:\Users\dansh\OneDrive\שולחן העבודה\Flight_Tracker\CppApp\x64\Debug\WebView2Loader.dll
+C:\Users\dansh\שולחן העבודה\Flight_Tracker\CppApp\x64\Debug\WebView2Loader.dll
+C:\Users\dansh\שולחן העבודה\CppApp\x64\Debug\WebView2Loader.dll

@@ -1,15 +1,13 @@
-# Dan Shani 319014411 - Eyal Zamero 314850249
------------------------------------------------------
-Real-Time Flight Tracking Application
+# Real-Time Flight Tracking Application
 
-----------------------Overview:----------------------
+## Overview
 This project is a real-time flight tracking application.
 that uses the OpenSky Network API to fetch and display data about active flights.
 Users can search for specific flights, view detailed information, and manage their favorite flights.
 Additionally, users can search for airports and view arrival and departure information for those airports.
 The application features a user-friendly graphical interface using the ImGui library.
 
-----------------------Features:----------------------
+## Features
 Real-time flight tracking
 Search functionality for flights and airports
 View detailed flight information
@@ -17,39 +15,36 @@ Manage favorite flights
 Display arrivals and departures for selected airports
 Graphical User Interface (GUI) rendered with ImGui
 
-----------------------Prerequisites:----------------------
+## Prerequisites
 C++ compiler
 CMake
 ImGui library
 OpenSky Network API credentials
 
-----------------------Installation:----------------------
-1.Clone the repository:
+## Installation
+```
 git clone https://github.com/danshani/CppApp.git
 cd CppApp
 
-2.Create a build directory and navigate into it:
 mkdir build
 cd build
 
-3.Configure the project with CMake:
 cmake ..
 
-4.Build the project:
 cmake --build .
 
-Run:
 ./flight_tracking_app
+```
 
-----------------------Contributing:----------------------
+## Contributing
 If you want to contribute to this project, please submit a pull request or open an issue to discuss potential changes or improvements.
 
-----------------------Acknowledgements:------------------
+## Acknowledgements
 ImGui library for GUI rendering
 OpenSky Network API for flight data
 For more details, visit the repository.
 
-----------------------License:----------------------------
+## License
 MIT License
 Copyright (c) [2024] Dan Shani,Eyal Zamero
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
